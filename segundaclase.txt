@@ -1,0 +1,108 @@
+*atom-live-server
+*emmet
+
+
+    *-footer
+div *-header
+    *-article
+    *-selection 
+    *-nav
+    *-aside
+
+<header class="header">
+                         <div clas="header">
+
+                           </div>
+
+
+</header>
+
+
+*------------------------------------------------------------------------------------------------------*
+
+
+ejercicios.html
+ejercisios css
+<link rel="stylesheet" href="EjercisiosCSS">
+formas de implementar estilos css
+
+h1{
+   color:red;
+}
+
+
+
+
+****-------------------------------------------------------------------------------------------****
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>HTML5 Semantic Tags</title>
+
+  </head>
+  <body>
+
+  </body>
+</html>
+
+****---------------------------------------------------------------------------------------------****
+
+(  *  ) todas las etiquetas tienen el selector universal
+
+
+
+
+********---------------------------------------------------------------------------------------------*********
+
+
+font family
+(googlefonts)
+
+color:rgb(255,255,255)
+colorpicker(google)
+atom best packages (google)
+atom-beautify(google)
+
+
+border:3px solid red;
+border-ratius: 10px;
+
+<div (ancho)>
+
+background size
+           position
+           repeat
+           size
+           attachmend:
+
+</div>
+
+
+border
+bacground
+color
+googlefonts
+********---------------------------------------------------------------------------------------------*********
+
+
+BOX-SIZING-BORDERBOX
+padding
+
+
+
+
+alineacion por floats
+
+
+#box-<div class2
+
+clr01:23 p. m. 07/04/2019
+
+
+#
+

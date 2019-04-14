@@ -1,0 +1,38 @@
+* box-sizing: content-box1
+
+
+#box1{
+  float: left;
+  width: 45%;
+  color: green;
+  height:  auto;
+  width: 600px
+
+
+  h1
+  {
+  background-color: red;
+
+  }
+
+  p {
+    background-color: green;
+  }
+
+}
+
+.clr {
+  clear: both;
+}
+
+#box2{
+  float: right;
+  width: 50%;
+  color: lightblue;
+  height:  auto;
+  width: 600px
+  border 3px solid red;
+  background-color: blue;
+
+
+}

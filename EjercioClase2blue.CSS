@@ -1,0 +1,20 @@
+h2
+{
+
+font-style: oblique;
+font-weight: 900;
+
+color: blue;
+
+}
+
+#prueba p{
+
+  font-size: 10px;
+}
+#prueba2 p{
+
+  font-size: 30px;
+  color: green;
+  font-style: italic;
+}
